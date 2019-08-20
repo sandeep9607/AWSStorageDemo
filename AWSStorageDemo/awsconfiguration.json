@@ -1,0 +1,29 @@
+{
+    "UserAgent": "aws-amplify/cli",
+    "Version": "0.1.0",
+    "IdentityManager": {
+        "Default": {}
+    },
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "PoolId": "us-east-2:b39bd302-8793-4595-bfdb-c2a51f585c22",
+                "Region": "us-east-2"
+            }
+        }
+    },
+    "CognitoUserPool": {
+        "Default": {
+            "PoolId": "us-east-2_yNrB30X0N",
+            "AppClientId": "3gmq3ls29d6nk8qksrfplk5p2a",
+            "AppClientSecret": "1tdp9cmj2n3t6g6ti8pfcthsiqt8svbftqjtf49js2dgd6h7akq0",
+            "Region": "us-east-2"
+        }
+    },
+    "S3TransferUtility": {
+        "Default": {
+            "Bucket": "audiobook198-ios",
+            "Region": "us-east-2"
+        }
+    }
+}

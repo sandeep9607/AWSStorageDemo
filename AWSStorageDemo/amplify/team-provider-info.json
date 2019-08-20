@@ -1,0 +1,19 @@
+{
+    "ios": {
+        "awscloudformation": {
+            "AuthRoleName": "audiobook-ios-20190820154520-authRole",
+            "UnauthRoleArn": "arn:aws:iam::153482177662:role/audiobook-ios-20190820154520-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::153482177662:role/audiobook-ios-20190820154520-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "audiobook-ios-20190820154520-deployment",
+            "UnauthRoleName": "audiobook-ios-20190820154520-unauthRole",
+            "StackName": "audiobook-ios-20190820154520",
+            "StackId": "arn:aws:cloudformation:us-east-2:153482177662:stack/audiobook-ios-20190820154520/6afa7ca0-c333-11e9-8436-02278d0d93fc"
+        },
+        "categories": {
+            "auth": {
+                "audiobooke4077cf1": {}
+            }
+        }
+    }
+}
